@@ -1,7 +1,7 @@
 package = "uname"
 version = "scm-1"
 source = {
-  url = "git://github.com/norman/hello-lua.git"
+  url = "git://github.com/huakim/lua-uname.git"
 }
 description = {
   summary = "A hello-world C module for Lua",
